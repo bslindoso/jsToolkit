@@ -1,0 +1,12 @@
+{
+  "name": "jstoolkit",
+  "version": "1.0.0",
+  "description": "💡 Principais objetivos: Reutilizabilidade, simplicidade e eficiência.<br>\r 🛠️ Ideal para projetos pessoais, aprendizado ou como inspiração para outros desenvolvedores.<br>\r 📚 Sempre em evolução, com melhorias e novas adições conforme minhas necessidades de desenvolvimento.<br>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT"
+}
