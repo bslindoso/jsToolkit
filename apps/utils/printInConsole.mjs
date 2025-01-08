@@ -2,7 +2,7 @@
  * Logs an empty line to the console.
  */
 export const breakLine = () => {
-  console.log('\n')
+  console.log('')
 }
 
 /**
