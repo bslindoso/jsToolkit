@@ -137,4 +137,4 @@ function generateHeader(text, char = '-', width = 50) {
   console.log(line)
 }
 
-module.exports = { gets, print, not, pauseForKeypress, generateHeader }
+export { gets, print, not, pauseForKeypress, generateHeader }
