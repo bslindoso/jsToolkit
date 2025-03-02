@@ -1,4 +1,4 @@
-class Viagem {
+export default class Viagem {
   percurso;
   distanciaEmKm;
   meioDeTransporte;
@@ -27,5 +27,3 @@ class Viagem {
     return valorGasto
   }
 }
-
-module.exports = { Viagem }

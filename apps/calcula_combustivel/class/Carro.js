@@ -1,4 +1,4 @@
-class Carro {
+export default class Carro {
   marca;
   cor;
   gastoMedioCombustivel;
@@ -21,5 +21,3 @@ class Carro {
     return ((distanciaPercorrida / this.gastoMedioCombustivel) * precoCombustivel) * (1 + this.aumentoArCondicionado)
   }
 }
-
-module.exports = { Carro }
